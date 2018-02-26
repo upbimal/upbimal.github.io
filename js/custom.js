@@ -48,7 +48,7 @@ for (var i = 0; i < btns.length; i++) {
   });
 
 }).call(this);
-
+/*
 $(window).ready(function() {
     $(".loader").fadeOut("slow");
-});
+});*/
