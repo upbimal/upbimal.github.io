@@ -48,3 +48,7 @@ for (var i = 0; i < btns.length; i++) {
   });
 
 }).call(this);
+
+$(window).load(function() {
+    $(".loader").fadeOut("slow");
+});
